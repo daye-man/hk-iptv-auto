@@ -14,8 +14,8 @@
 
 | 線路 | 鏈接 (URL) | 推薦度 |
 | :--- | :--- | :--- |
-| **CDN 加速 (推薦)** | `https://raw.gh.registry.cyou/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u` | ⭐⭐⭐⭐⭐ |
-| **GitHub Raw** | `https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u` | ⭐⭐⭐ |
+| **CDN 加速 (推薦)** | `https://raw.gh.registry.cyou/daye-man/hk-iptv-auto/refs/heads/main/hk_live.m3u` | ⭐⭐⭐⭐⭐ |
+| **GitHub Raw** | `https://raw.githubusercontent.com/daye-man/hk-iptv-auto/refs/heads/main/hk_live.m3u` | ⭐⭐⭐ |
 
 > ⚡ **CDN 加速服務由 [cmliussss](https://blog.cmliussss.com/) 提供，特此感謝！**
 > 
